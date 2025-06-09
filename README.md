@@ -10,8 +10,8 @@ The dataset includes healthy and diseased leaf images across multiple plant spec
 
 ### Technologies Used -
 
--Language : Python (Run on Google Colab)
--Libraries : TensorFlow, Matplotlib, NumPy, Pandas
+- Language : Python (Run on Google Colab)
+- Libraries : TensorFlow, Matplotlib, NumPy, Pandas
 
 ### Model Summary -
 
