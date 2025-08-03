@@ -1,6 +1,7 @@
 ## **Plant Disease Detection using Convolutional Neural Networks (CNN)**
 
-### Overview - This project classifies plant diseases based on leaf images using machine learning. It aims to assist farmers and agronomists in early disease detection to improve crop productivity.
+### Overview -
+This project classifies plant diseases based on leaf images using machine learning. It aims to assist farmers and agronomists in early disease detection to improve crop productivity. The system was trained on a diverse dataset of plant leaves to recognize patterns and symptoms of various diseases. Users can upload leaf images through a simple web interface and receive instant diagnostic feedback. This project combines AI in agriculture to promote early detection and reduce crop losses. It reflects strong skills in Python, machine learning, and image processing.
 
 ### Dataset -
 
